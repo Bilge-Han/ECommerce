@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "630646974581",
+    "project_id": "etrade-5c877",
+    "storage_bucket": "etrade-5c877.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630646974581:android:b749fe02877bfef646f03c",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630646974581-e5hftmrt4fs4jcdvkotu7tvd8hc030hi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTyrLnYhBXr8UvmoUrgy0T3sjBRqEEWz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630646974581-e5hftmrt4fs4jcdvkotu7tvd8hc030hi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
